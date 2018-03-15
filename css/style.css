@@ -24,3 +24,11 @@ figcaptions {
   color: #777;
   text-align: right;
 }
+
+.milktext {
+  font: bold, 2.6em, "Elsie Swash Caps", cursive;
+  color: white;
+  text-shadow: 0, 2px, 3px, black;
+  
+}
+}
