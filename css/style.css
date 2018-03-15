@@ -7,3 +7,8 @@ Selector {
   property: value;
 }
 */
+
+p {
+  font-size: 1em;
+  line-height: 2em;
+}
